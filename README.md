@@ -10,7 +10,7 @@ And this is a fair comparison. From the [Pharmaceutical Society of Singapore](ht
 
 **TL;DR:** 500mg of paracetamol is 500mg of paracetamol, regardless of brand.
 
-## OpenTechSG's Medium
+## Medium
 MediCheck is delivered in the form of a webpage. The home page contains a set of links to dedicated pages for 7 popular drugs:
 
 |   Drug    | What It Treats | Main Ingredient |
